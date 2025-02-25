@@ -106,8 +106,8 @@ Este projeto é um sistema embarcado projetado para monitorar e controlar automa
 
 ## 📷 Fotos do Projeto
 
-(![Imagem do WhatsApp de 2025-02-25 à(s) 18 01 51_4768c6c6](https://github.com/user-attachments/assets/79e93bd3-853e-45b7-baef-3e6e7ba9a8ce)
-)
+![Imagem do WhatsApp de 2025-02-25 à(s) 18 01 51_4768c6c6](https://github.com/user-attachments/assets/79e93bd3-853e-45b7-baef-3e6e7ba9a8ce)
+
 
 ---
 
